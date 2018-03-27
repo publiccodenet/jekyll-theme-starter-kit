@@ -4,6 +4,7 @@
 # Jekyll plugins that are supported by GitHub pages
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 
 # Also render the README to HTML even if there is an index.md
 include:
